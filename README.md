@@ -25,7 +25,7 @@ vue create project_name
 - *Select Eslint with Error Prevention Only*
 
 **Add node_modules**
-- *Copy node_modules folder form (current installed project) & paste it inside our project/recommend_movies.*
+- *Copy node_modules folder form (current installed project) & paste it inside our /project_folder.*
 
 **Running the /recommend_movies folder**
 ```
