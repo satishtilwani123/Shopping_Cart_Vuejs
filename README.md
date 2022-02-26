@@ -1,24 +1,35 @@
 # shoppingcart
 
-## Project setup
+## Project Setup:
+
+**Go to the Command Prompt:**
+- *cd Desktop(Place where you want to install dependencies for Vuejs)*
+
+**Create new vuejs project:**
 ```
-npm install
+vue create project_name
+```
+**Please pick a preset:**
+- *Choose Manually Select Features*
+
+**Select the Features:**
+- *Choose Manually Select Features*
+
+**Select the Dependencies you want to install:**
+- *Babel, Router, CSS Pre-processor*
+
+**Choose vue version:**
+- *Select Vue 3*
+
+**Pich a linter/formatter config:**
+- *Select Eslint with Error Prevention Only*
+
+**Add node_modules**
+- *Copy node_modules folder form (current installed project) & paste it inside our project/recommend_movies.*
+
+**Running the /recommend_movies folder**
+```
+num run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*Finally all step's are done, Thank you*
